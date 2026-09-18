@@ -1,0 +1,7 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(14, 123, 56);
+  background-color: rgb(226, 202, 255);
+  min-height: 100vh;
+  font-size: 70px;
+}
