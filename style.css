@@ -1,8 +1,8 @@
 body {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  color: rgb(61, 145, 241);
-  background-color: rgb(255, 188, 247);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(164, 164, 254);
+  background-color: rgb(28, 23, 39);
   min-height: 100vh;
   font-size: 20px;
-  text-align: center;
+  text-align: right;
 }
