@@ -1,7 +1,7 @@
 body {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: rgb(14, 123, 56);
-  background-color: rgb(226, 202, 255);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(61, 241, 241);
+  background-color: rgb(183, 255, 237);
   min-height: 100vh;
-  font-size: 70px;
+  font-size: 80px;
 }
