@@ -1,0 +1,7 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: azure;
+  background-color: rgb(183, 255, 237);
+  min-height: 100vh;
+  font-size: 40px;
+}
